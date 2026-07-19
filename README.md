@@ -1,4 +1,4 @@
-#🌾 Field Area Calculator
+# Field Area Calculator
 
 A web-based tool for measuring agricultural field boundaries and calculating land area, built with Leaflet.js. Users can identify their field either by entering a registration number (mock lookup) or by using their current GPS location and manually drawing the field boundary on an interactive map.
 
